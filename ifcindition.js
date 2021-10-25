@@ -1,4 +1,4 @@
-// this is about if c
+// this is about if condition
 var woter = 4.80
 var ph = 7
 var b = 57
