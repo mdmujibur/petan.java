@@ -4,5 +4,7 @@ function toNumSum(x, y) {
     return `${x} + ${y} = ${result}`
 }
 
+const name = 'Mohammad Anarul Islam'
+
 const result = toNumSum(1, 40)
 console.log(result)
